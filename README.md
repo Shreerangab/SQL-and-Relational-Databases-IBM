@@ -28,9 +28,8 @@ This certification strengthened my SQL foundation for:
 ---
 
 ## 📷 Certificate
-(Upload your certificate image here and rename it to `certificate.png`)
+<img width="1108" height="677" alt="Screenshot 2026-02-25 115013" src="https://github.com/user-attachments/assets/5e686fe7-8d7a-4b6b-a204-598c5388fb7d" />
 
-![Certificate](certificate.png)
 
 ---
 
